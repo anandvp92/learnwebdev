@@ -1,0 +1,22 @@
+{
+  "name": "learnwebdevelopment",
+  "version": "1.0.0",
+  "description": "learn webdevelopment with express js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anandvp92/learnexpressweb.git"
+  },
+  "author": "anand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anandvp92/learnexpressweb/issues"
+  },
+  "homepage": "https://github.com/anandvp92/learnexpressweb#readme",
+  "dependencies": {
+    "learnwebdevelopment": "file:"
+  }
+}
